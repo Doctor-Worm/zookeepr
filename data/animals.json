@@ -108,6 +108,27 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Cleo",
+      "species": "Fox",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Darius",
+      "species": "Bear",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
